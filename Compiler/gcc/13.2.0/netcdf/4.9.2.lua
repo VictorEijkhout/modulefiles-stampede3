@@ -6,7 +6,7 @@ The netcdf modulefile defines the following variables:
 TACC_NETCDF_DIR, TACC_NETCDF_LIB, TACC_NETCDF_INC, TACC_NETCDF_BIN
 ..
 https://netcdf.geodynamics.org/
-https://github.com/geodynamics/netcdf
+https://github.com/Unidata/netcdf
 https://docs.unidata.ucar.edu/nug/current/getting_and_building_netcdf.html
 ]]
 help(helpMsg)
